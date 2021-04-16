@@ -1,0 +1,19 @@
+{
+  "name": "baseConverter",
+  "version": "0.1.0",
+  "description": "A integer to base 8 converter written in javascript",
+  "main": "index.js",
+  "repository": "github.com",
+  "author": "Larry Cherry",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "pryjs": "^1.0.3"
+  }
+}
